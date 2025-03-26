@@ -54,3 +54,12 @@
       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
 
 </div>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/philipsantiagoo/philipsantiagoo/output/snake.svg" alt="Snake animation" />
+
+###
