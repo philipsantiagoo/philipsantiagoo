@@ -24,6 +24,8 @@
   
 </div>
 
+<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526l7bvbbksambhhj9p4b01qamypnhejlrrj07b3zc&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right" width="122px">
+
 
 #### Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/philipsanttiago/)
