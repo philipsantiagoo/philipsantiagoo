@@ -12,18 +12,27 @@
 
 #### Linguagens:
 <div>
-     <img src=https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white />
+      <img src=https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white />
   
 </div>
 
 
-#### Tecnologias e Skills: 
+#### Tecnologias: 
 <div>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       
   
+</div>
+
+
+#### IDEs:
+<div>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+       <img width="12" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+       <img width="12" />
+
+     
 </div>
 
 
@@ -37,8 +46,8 @@
 
 
 <div align="center">  
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=philipsantiagoo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEEB&text_color=FFFFFF&bg_color=0d1117" /> 
-      <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipsantiagoo&layout=compact&hide_border=true&title_color=1E90FF&text_color=87CEEB&bg_color=0d1117" />
+       <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=philipsantiagoo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEEB&text_color=FFFFFF&bg_color=0d1117" /> 
+       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipsantiagoo&layout=compact&hide_border=true&title_color=1E90FF&text_color=87CEEB&bg_color=0d1117" />
   
 </div>
   
@@ -48,12 +57,12 @@
   <b>Visitors Count</b>
 </p>  
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/philipsantiagoo/count.svg?color=1E90FF&bg=1A1A2E" />
+   <img align="center" src="https://profile-counter.glitch.me/philipsantiagoo/count.svg?color=1E90FF&bg=1A1A2E" />
 </p>
 
 
 </div>
-      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
+       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
 
 </div>
 
