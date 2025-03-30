@@ -17,21 +17,13 @@
 </div>
 
 
-#### Tecnologias: 
+#### Tecnologias e Skills: 
 <div>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/BLACKBOX-000000?style=for-the-badge&logo=blackbox&logoColor=white" />
       
   
-</div>
-
-
-#### IDEs:
-<div>
-     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-     <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-     
 </div>
 
 
