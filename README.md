@@ -47,16 +47,8 @@
        <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=philipsantiagoo&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEEB&text_color=FFFFFF&bg_color=0d1117" /> 
        <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipsantiagoo&layout=compact&hide_border=true&title_color=1E90FF&text_color=87CEEB&bg_color=0d1117" />
   
-</div>
-  
+</div>  
 
-
-<p align="center">
-  <b>Visitors Count</b>
-</p>  
-<p align="center">
-   <img align="center" src="https://profile-counter.glitch.me/philipsantiagoo/count.svg?color=1E90FF&bg=1A1A2E" />
-</p>
 
 
 </div>
