@@ -7,7 +7,7 @@
 
 
 📌 Oii! Me chamo Philip Santiago :) <br>
-📌 Atualmente curso o 1° semestre de Ciência da Computação pela Universidade Federal de Pernambuco - UFPE <br>
+📌 Atualmente curso o 2° semestre de Ciência da Computação pela Universidade Federal de Pernambuco - UFPE <br>
 
 
 #### Linguagens:
