@@ -13,7 +13,8 @@
 #### Linguagens:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;" alt="python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px;" alt="C++ logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" style="height:40px;" alt="C logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="height:40px;" alt="C++ logo"/>
 </p>
 
 
