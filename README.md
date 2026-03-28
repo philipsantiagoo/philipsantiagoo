@@ -41,6 +41,7 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;" alt="Python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px; margin-left:10px;" alt="JavaScript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px; margin-left:10px;" alt="TypeScript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px; margin-left:10px;" alt="C++ logo"/>
 </p>
 
 #### Frontend / Frameworks
