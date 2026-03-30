@@ -2,11 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Welcome+to+my+GitHub.;Building+scalable+web+applications.)](https://git.io/typing-svg)
 
-
-
 ---
-
-
 
 <br>
 
@@ -14,9 +10,8 @@
 
 Philip Santiago  
 - Computer Science student at UFPE  
-- Full Stack Developer at CiTi — Technology Junior Enterprise  
+- Full Stack Developer & Design System Developer at CiTi — Technology Junior Enterprise  
 - Focused on Web Development, Software Engineering and Systems Architecture  
-
 
 ### About Me
 
@@ -26,11 +21,7 @@ Currently focused on strengthening my foundations in software engineering, backe
 
 <br>
 
-
-
 ---
-
-
 
 <br>
 
@@ -46,7 +37,10 @@ Currently focused on strengthening my foundations in software engineering, backe
 
 #### Frontend / Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px;" alt="React logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; margin-left:10px;" alt="CSS3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height:40px; margin-left:10px;" alt="Tailwind CSS logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px; margin-left:10px;" alt="React logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px; margin-left:10px;" alt="Next.js logo"/>
 </p>
 
@@ -70,14 +64,9 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:40px; margin-left:10px;" alt="VS Code logo"/>
 </p>
 
-
 <br>
 
-
-
 ---
-
-
 
 <br>
 
@@ -87,8 +76,6 @@ Currently focused on strengthening my foundations in software engineering, backe
 <a href = "mailto:philipsantiagosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
-
-
 
 <div align="center">
 <table>
@@ -108,15 +95,7 @@ Currently focused on strengthening my foundations in software engineering, backe
 </table>
 </div>
 
-
-
-
-
-</div>
-       <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
-
-</div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
 
 ###
 
