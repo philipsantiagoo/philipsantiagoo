@@ -56,6 +56,7 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;" alt="Git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px; margin-left:10px;" alt="GitHub logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px; margin-left:10px;" alt="Linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="height:40px; margin-left:10px;" alt="WordPress logo"/>
 </p>
 
 #### IDEs & Editors
