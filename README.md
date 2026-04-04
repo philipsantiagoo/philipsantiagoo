@@ -42,6 +42,7 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height:40px; margin-left:10px;" alt="Tailwind CSS logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px; margin-left:10px;" alt="React logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:40px; margin-left:10px;" alt="Next.js logo"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" style="height:40px; margin-left:10px;" alt="shadcn/ui logo"/>
 </p>
 
 #### Backend / Tools
