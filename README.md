@@ -10,14 +10,19 @@
 
 Philip Santiago  
 - Computer Science student at UFPE  
-- Full Stack Developer & Design System Developer at CiTi — Technology Junior Enterprise  
+- Software Analyst → Pós-Júnior Full Stack Developer & Design System Developer at CITi — Technology Junior Enterprise  
+- Full Stack Developer at V-LAB  
 - Focused on Web Development, Software Engineering and Systems Architecture  
 
 ### About Me
 
 I am passionate about building well-structured, efficient and scalable web applications.  
 
-Currently focused on strengthening my foundations in software engineering, backend systems and containerization, applying these concepts in real-world development projects.
+Currently focused on strengthening my foundations in software engineering, backend systems, containerization and AI agent development, applying these concepts in real-world development projects.
+
+### Agile Methodologies
+
+Understanding of Agile methodologies (Scrum, Kanban) and hands-on experience with related tracking and workflow tools.
 
 <br>
 
@@ -33,6 +38,7 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px; margin-left:10px;" alt="JavaScript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px; margin-left:10px;" alt="TypeScript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px; margin-left:10px;" alt="C++ logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="height:40px; margin-left:10px;" alt="Ruby logo"/>
 </p>
 
 #### Frontend / Frameworks
@@ -52,12 +58,19 @@ Currently focused on strengthening my foundations in software engineering, backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; margin-left:10px;" alt="Docker logo"/>
 </p>
 
-#### Tools & Technologies
+#### Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;" alt="Git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px; margin-left:10px;" alt="GitHub logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px; margin-left:10px;" alt="Linux logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="height:40px; margin-left:10px;" alt="WordPress logo"/>
+  <img src="https://cdn.simpleicons.org/metabase/509EE3" style="height:40px; margin-left:10px;" alt="Metabase logo"/>
+</p>
+
+#### AI Agents
+<p align="left">
+  <img src="https://cdn.simpleicons.org/claude/D97757" style="height:40px;" alt="Claude logo"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" style="height:40px; margin-left:10px;" alt="Gemini logo"/>
 </p>
 
 #### IDEs & Editors
